@@ -1,0 +1,22 @@
+# Edit exercise names to match your Hevy library exactly.
+title: "Pull Day"
+notes: "Espalda, bíceps"
+exercises:
+  - name: "Bent Over Row (Barbell)"
+    rest_seconds: 90
+    sets:
+      - type: normal
+        weight_kg: 60
+        reps: 8
+      - type: normal
+        weight_kg: 60
+        reps: 8
+  - name: "Lat Pulldown (Cable)"
+    rest_seconds: 90
+    sets:
+      - type: normal
+        weight_kg: 55
+        reps: 10
+      - type: normal
+        weight_kg: 55
+        reps: 10

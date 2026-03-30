@@ -1,0 +1,25 @@
+# Edit exercise names to match your Hevy library exactly.
+title: "Leg Day"
+notes: "Piernas"
+exercises:
+  - name: "Squat (Barbell)"
+    rest_seconds: 120
+    sets:
+      - type: warmup
+        weight_kg: 40
+        reps: 10
+      - type: normal
+        weight_kg: 100
+        reps: 5
+      - type: normal
+        weight_kg: 100
+        reps: 5
+  - name: "Romanian Deadlift (Barbell)"
+    rest_seconds: 90
+    sets:
+      - type: normal
+        weight_kg: 80
+        reps: 8
+      - type: normal
+        weight_kg: 80
+        reps: 8

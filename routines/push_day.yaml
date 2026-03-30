@@ -1,0 +1,25 @@
+# Names must match exercise titles in Hevy exactly (see exercise library in the app).
+title: "Push Day"
+notes: "Pecho, hombro, tríceps"
+exercises:
+  - name: "Bench Press (Barbell)"
+    rest_seconds: 90
+    sets:
+      - type: normal
+        weight_kg: 80
+        reps: 8
+      - type: normal
+        weight_kg: 80
+        reps: 8
+      - type: normal
+        weight_kg: 75
+        reps: 10
+  - name: "Overhead Press (Barbell)"
+    rest_seconds: 90
+    sets:
+      - type: normal
+        weight_kg: 50
+        reps: 8
+      - type: normal
+        weight_kg: 50
+        reps: 8
