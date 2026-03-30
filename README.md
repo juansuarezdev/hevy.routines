@@ -24,6 +24,14 @@ En `.env`:
 HEVY_API_KEY=sk_live_...
 ```
 
+## Uso
+
+```bash
+pip install -r requirements.txt
+python create_routines.py              # crea una rutina por cada .yaml en routines/
+python create_routines.py --dry-run    # resuelve ejercicios e imprime el JSON; no envía POST
+```
+
 ## Estructura del proyecto
 
 ```
